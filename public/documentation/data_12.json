@@ -1,0 +1,1 @@
+[{"category":"Videos","name":"Get Video","description":"Get all videos info","path":"/videos","request":"post","parameters":[{"key":"_id","getter":"body"}]}]

@@ -1,0 +1,1 @@
+[{"category":"VideosViewed","name":"VideoViewed","description":"Set a video viewed","path":"/video/viewed","request":"patch","parameters":[{"key":"id_video","getter":"query"}]}]

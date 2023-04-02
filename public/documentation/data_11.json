@@ -1,0 +1,1 @@
+[{"category":"Themes","name":"Get Theme","description":"Get all themes","path":"/themes","request":"post","parameters":[{"key":"_id","getter":"body"}]}]

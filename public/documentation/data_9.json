@@ -1,0 +1,1 @@
+[{"category":"SkillsTechnologie","name":"Get Skill","description":"Get all skills","path":"/skills/technology","request":"get","parameters":[]},{"category":"SkillsTechnologie","name":"Get Skill","description":"Getskills Unique","path":"/skills/technology/unique","request":"get","parameters":[{"key":"pole","getter":"query"},{"key":"type","getter":"query"}]}]

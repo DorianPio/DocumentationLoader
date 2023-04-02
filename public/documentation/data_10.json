@@ -1,0 +1,1 @@
+[{"category":"VideoTutorials","name":"Get Skill","description":"Get all skills","path":"/skills/videotutorial","request":"get","parameters":[]},{"category":"VideoTutorials","name":"Get Skill","description":"Getskills Unique","path":"/skills/videotutorial/unique","request":"get","parameters":[{"key":"pole","getter":"query"},{"key":"type","getter":"query"}]}]
